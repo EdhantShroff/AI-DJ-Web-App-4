@@ -1,0 +1,23 @@
+body{
+    background-size: 100%;
+}
+
+.heading{
+    width: 100%;
+    font-size: x-large;
+    letter-spacing: 8px;
+    font-family: 'Jura', sans-serif;
+}
+
+.note{
+    font-size: small;
+    color: black;
+    letter-spacing: 1px;    
+}
+
+canvas{
+    background-color: #000000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
